@@ -3,12 +3,12 @@
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║   ██████╗  ██████╗ ██████╗ ██████╗ ██╗ ██████╗  ██████╗                   ║
-║   ██╔══██╗██╔═══██╗██╔══██╗██╔══██╗██║██╔════╝ ██╔═══██╗                  ║
-║   ██████╔╝██║   ██║██║  ██║██████╔╝██║██║  ███╗██║   ██║                  ║
-║   ██╔══██╗██║   ██║██║  ██║██╔══██╗██║██║   ██║██║   ██║                  ║
-║   ██║  ██║╚██████╔╝██████╔╝██║  ██║██║╚██████╔╝╚██████╔╝                  ║
-║   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝                   ║
+║         ██████╗  ██████╗ ██████╗ ██████╗ ██╗ ██████╗  ██████╗             ║
+║         ██╔══██╗██╔═══██╗██╔══██╗██╔══██╗██║██╔════╝ ██╔═══██╗            ║
+║         ██████╔╝██║   ██║██║  ██║██████╔╝██║██║  ███╗██║   ██║            ║
+║         ██╔══██╗██║   ██║██║  ██║██╔══██╗██║██║   ██║██║   ██║            ║
+║         ██║  ██║╚██████╔╝██████╔╝██║  ██║██║╚██████╔╝╚██████╔╝            ║
+║         ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝             ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -29,7 +29,6 @@
 > Deep dive into cybersecurity, penetration testing, and system hardening
 > Currently building security audit tools and exploring offensive security
 > Theatre enthusiast when not breaking into systems
-> Training calisthenics | Outdoor bars & running tracks
 ```
 
 **Current Focus:**
@@ -150,7 +149,7 @@ creative:
   - Creative writing & storytelling
   
 physical:
-  - Calisthenics training (outdoor parks)
+  - Calisthenics training
   - Running & endurance building
   
 technical:
@@ -188,8 +187,8 @@ echo "Reach me at:"
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║  "The quieter you become, the more you are able to hear."                 ║
-║                                        — Kali Linux motto                 ║
+║       "The quieter you become, the more you are able to hear."            ║
+║                                              — Kali Linux motto           ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
