@@ -85,18 +85,9 @@
 
 ## 🚀 **// FEATURED PROJECTS**
 
-<div align="center">
-
-[![Linux Security Audit Tool](https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Tripa&repo=linux-security-audit-tool&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1744&icon_color=FF1744&text_color=FFFFFF)](https://github.com/Rodrigo-Tripa/linux-security-audit-tool)
-[![Metatrace-Lite](https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Tripa&repo=metatrace-lite&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1744&icon_color=FF1744&text_color=FFFFFF)](https://github.com/Rodrigo-Tripa/metatrace-lite)
-
-[![Cracker1](https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Tripa&repo=cracker1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1744&icon_color=FF1744&text_color=FFFFFF)](https://github.com/Rodrigo-Tripa/cracker1)
-
-</div>
-
 ### 🔐 **Linux Security Audit Tool**
 ```bash
-└─$ ./audit.sh -v
+└─$ sudo ./audit.sh -v
 ```
 - Comprehensive security auditing for Linux systems
 - Detects UID 0 users, SUID/SGID binaries, orphaned files
@@ -108,21 +99,20 @@
 
 ### 🔍 **Metatrace-Lite**
 ```bash
-└─$ metatrace-lite --scan target.exe
+└─$ python main.py image.jpg -o reports/
 ```
-- Lightweight system call tracing and analysis
-- Real-time process monitoring and forensics
-- Custom syscall filtering and reporting
+- EXIF metadata extraction and forensic analysis
+- GPS coordinates, device detection, editing software identification
+- JSON reporting with structured forensic evidence
 
-**Tech:** `C/Assembly` `System Analysis` `Forensics`
+**Tech:** `Python` `EXIF` `Forensics`
 
 ### 🔓 **Cracker1**
 ```bash
-└─$ cracker1 -w wordlist.txt target.hash
+└─$ python cracker1.py -crack -n 1 -w wordlist.txt
 ```
-- Multi-threaded password cracking utility
-- Support for various hash algorithms (MD5, SHA, bcrypt)
-- GPU acceleration support
+- SHA-256 dictionary-based hash cracking
+- Organized hash storage and result logging
 
 **Tech:** `Python` `Cryptography` `Hashing`
 
