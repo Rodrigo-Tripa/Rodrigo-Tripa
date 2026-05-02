@@ -116,16 +116,6 @@
 
 **Tech:** `Python` `Cryptography` `Hashing`
 
-## 📊 **// SECURITY METRICS**
-
-```
-⚡ Vulnerabilities Discovered: 47+
-🔍 Security Audits Completed: 12
-💻 Tools Developed: 3+
-🎯 CTF Challenges Solved: 100+
-📊 Average Report Quality: 95%
-```
-
 ---
 
 ## 📡 **// ACTIVITY GRAPH**
