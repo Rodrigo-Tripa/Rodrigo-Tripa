@@ -1,124 +1,351 @@
 <div align="center">
 
-<div style="color: #FF1744; text-align: center;">
-
-```
-   ██████╗ ███████╗███╗   ███╗██╗ ██████╗  ██████╗ ██████╗ 
-   ██╔══██╗██╔════╝████╗ ████║██║██╔════╝ ██╔═══██╗██╔══██╗
-   ██║  ██║█████╗  ██╔████╔██║██║██║  ███╗██║   ██║██║  ██║
-   ██║  ██║██╔══╝  ██║╚██╔╝██║██║██║   ██║██║   ██║██║  ██║
-   ██████╔╝███████╗██║ ╚═╝ ██║██║╚██████╔╝╚██████╔╝██████╔╝
-   ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ 
-                                                          
-       7 7 7 7
+```text
+██████╗ ███████╗███╗   ███╗██╗ ██████╗  ██████╗ ██████╗
+██╔══██╗██╔════╝████╗ ████║██║██╔════╝ ██╔═══██╗██╔══██╗
+██║  ██║█████╗  ██╔████╔██║██║██║  ███╗██║   ██║██║  ██║
+██║  ██║██╔══╝  ██║╚██╔╝██║██║██║   ██║██║   ██║██║  ██║
+██████╔╝███████╗██║ ╚═╝ ██║██║╚██████╔╝╚██████╔╝██████╔╝
+╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝ ╚═════╝  ╚═════╝ ╚═════╝
 ```
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=FF0000&center=true&vCenter=true&width=720&lines=Linux+%7C+Cybersecurity+%7C+Open+Source;Building+Security+Tools;Learning+Offensive+Security;Always+Curious" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Security+Researcher+%7C+Pentester;Shell+Script+Developer;Linux+Hardening+Enthusiast;Building+Tools+%7C+Breaking+Systems" alt="Typing SVG" />
+# Rodrigo Tripa
+
+### Linux • Cybersecurity • Open Source
+
+*"Build. Break. Learn. Repeat."*
 
 </div>
 
 ---
 
-## 🕵️ **// WHOAMI**
+# 👋 About Me
 
 ```bash
-┌──(rodrigo㉿mercury-neo)-[~]
-└─$ cat about.txt
-
-> Secondary school student from Portugal 🇵🇹
-> Deep dive into cybersecurity, penetration testing, and system hardening
-> Currently building security audit tools and exploring offensive security
-> Theatre enthusiast when not breaking into systems
+┌──(rodrigo㉿arch)-[~]
+└─$ whoami
 ```
 
-**Current Focus:**
-- 🔐 Developing security audit tools for Linux systems
-- 🐧 Hardening configurations and hunting misconfigurations
-- 💻 Bash scripting for automation and pentesting workflows
-- 🎯 Hands-on practice with vulnerable VMs (Metasploitable, DVWA)
-- 🛠️ Building offensive security toolkit
+I'm a secondary school student from Portugal with a strong interest in Linux, cybersecurity and software development.
+
+I enjoy understanding how operating systems work internally, automating repetitive tasks with Bash and Python, and building projects that help me learn by doing.
+
+Rather than rushing into advanced topics, I'm focused on building solid foundations in Linux, networking, programming and security before moving into more complex offensive security concepts.
+
+Outside cybersecurity, I enjoy mathematics, computer science, open-source software and continuously learning new technologies.
 
 ---
 
-## 🛠️ **// TECH STACK**
+# 🎯 Current Focus
+
+```text
+✓ Linux Administration
+✓ Bash Automation
+✓ Python Programming
+✓ Networking Fundamentals
+✓ Security Fundamentals
+✓ Open Source Projects
+✓ TryHackMe Learning Paths
+✓ Preparing for Computer Engineering
+```
+
+---
+
+# 💻 Core Skills
+
+| Skill | Level |
+|-------|:------:|
+| Linux | ████░ |
+| Mathematics | ████░ |
+| Technical English | █████ |
+| Networking | ███░░ |
+| Bash | ███░░ |
+| Python | ███░░ |
+| Git | ███░░ |
+| Cybersecurity | ███░░ |
+
+---
+
+# 🛠 Tech Stack
+
+## 🐧 Operating Systems
 
 <div align="center">
 
-### **Languages & Shells**
-![Bash](https://img.shields.io/badge/Bash-8B0000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-DC143C?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-A71930?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### **Operating Systems**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-FF1744?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-8B0000?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-DC143C?style=for-the-badge&logo=windows&logoColor=white)
-
-### **Security Tools**
-![Metasploit](https://img.shields.io/badge/Metasploit-FF1744?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-8B0000?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-DC143C?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-A71930?style=for-the-badge&logo=nmap&logoColor=white)
-
-### **Development & Tools**
-![Git](https://img.shields.io/badge/Git-FF1744?style=for-the-badge&logo=git&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-8B0000?style=for-the-badge&logo=virtualbox&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-DC143C?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Alpine](https://img.shields.io/badge/Alpine-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 **// GITHUB STATS**
+## 💻 Languages
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Tripa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrigo-Tripa&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Tripa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" />
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
+---
 
-## 🚀 **// FEATURED PROJECTS**
+## 🔧 Development
 
-### 🔐 **Linux Security Audit Tool**
-```bash
-└─$ sudo ./audit.sh -v
-```
-- Comprehensive security auditing for Linux systems
-- Detects UID 0 users, SUID/SGID binaries, orphaned files
-- SSH configuration validation & firewall status checks
-- World-writable file scanning & open port enumeration
-- Clean report generation with integrity hashing
+<div align="center">
 
-**Tech:** `Bash` `Linux` `Security` `Audit`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
-### 🔍 **Metatrace-Lite**
-```bash
-└─$ python main.py image.jpg -o reports/
-```
-- EXIF metadata extraction and forensic analysis
-- GPS coordinates, device detection, editing software identification
-- JSON reporting with structured forensic evidence
-
-**Tech:** `Python` `EXIF` `Forensics`
-
-### 🔓 **Cracker1**
-```bash
-└─$ python cracker1.py -crack -n 1 -w wordlist.txt
-```
-- SHA-256 dictionary-based hash cracking
-- Organized hash storage and result logging
-
-**Tech:** `Python` `Cryptography` `Hashing`
+</div>
 
 ---
 
-## 📡 **// ACTIVITY GRAPH**
+## 🖥 Virtualization
+
+<div align="center">
+
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+</div>
+
+---
+
+## 📖 Currently Learning
+
+```python
+learning = {
+    "linux": [
+        "system internals",
+        "permissions",
+        "shell scripting",
+        "networking"
+    ],
+
+    "security": [
+        "tryhackme",
+        "linux hardening",
+        "web security fundamentals",
+        "privilege escalation"
+    ],
+
+    "programming": [
+        "python",
+        "bash",
+        "automation"
+    ]
+}
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Tripa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrigo-Tripa&theme=radical&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Tripa&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+> *"Knowledge compounds. Build something every day."*
+
+---
+
+# 🚀 Featured Projects
+
+## 🔐 Linux Security Audit Tool
+
+```bash
+$ sudo ./audit.sh --full
+```
+
+A Bash-based security auditing tool built to automate common Linux security checks and provide a clear overview of a system's security posture.
+
+### Features
+
+- User & group auditing
+- UID 0 account detection
+- SUID / SGID enumeration
+- World-writable file detection
+- SSH configuration analysis
+- Firewall inspection
+- Open port discovery
+- Security report generation
+
+**Tech Stack**
+
+```text
+Bash • Linux • Security • Automation
+```
+
+---
+
+## 📷 MetaTrace Lite
+
+```bash
+$ python main.py image.jpg
+```
+
+A lightweight forensic tool for extracting and analysing image metadata.
+
+### Features
+
+- EXIF metadata extraction
+- GPS coordinates
+- Camera & device identification
+- Editing software detection
+- JSON report generation
+
+**Tech Stack**
+
+```text
+Python • EXIF • Digital Forensics
+```
+
+---
+
+## 🔑 Cracker1
+
+```bash
+$ python cracker1.py
+```
+
+A small educational project created to better understand password hashing and dictionary attacks.
+
+### Features
+
+- SHA-256 support
+- Dictionary attacks
+- Organized logging
+- Simple CLI interface
+
+**Tech Stack**
+
+```text
+Python • Cryptography • Hashing
+```
+
+---
+
+# 🏠 Homelab
+
+```text
+Status: Active
+```
+
+My homelab is where I experiment safely, test new technologies and build practical experience.
+
+### Current Environment
+
+- Arch Linux
+- Docker
+- VirtualBox
+- Homepage Dashboard
+- Gitea
+- Wiki.js
+
+### Goals
+
+- Improve Linux administration
+- Learn Docker in depth
+- Build self-hosted services
+- Document everything
+- Experiment safely
+
+---
+
+# 📚 Learning Roadmap
+
+```text
+Linux Fundamentals
+        │
+        ▼
+Networking
+        │
+        ▼
+Python & Bash
+        │
+        ▼
+Security Fundamentals
+        │
+        ▼
+TryHackMe
+        │
+        ▼
+Web Security
+        │
+        ▼
+Privilege Escalation
+        │
+        ▼
+Active Directory
+        │
+        ▼
+Red Teaming
+```
+
+---
+
+# 🎯 Goals for 2026
+
+```yaml
+technical:
+  - Improve Linux knowledge
+  - Become proficient in Bash
+  - Improve Python
+  - Learn Docker
+  - Build better open-source tools
+
+cybersecurity:
+  - Complete more TryHackMe paths
+  - Strengthen networking
+  - Learn web security
+  - Practice privilege escalation
+
+personal:
+  - Start Computer Engineering
+  - Keep learning every day
+```
+
+---
+
+# 🌍 Interests
+
+```yaml
+technology:
+  - Linux
+  - Cybersecurity
+  - Networking
+  - Open Source
+
+science:
+  - Mathematics
+  - Physics
+  - Astronomy
+
+hobbies:
+  - Theatre
+  - Chess
+  - Reading
+```
+
+---
+
+# 📈 Activity Graph
 
 <div align="center">
 
@@ -128,82 +355,46 @@
 
 ---
 
-## 💭 **// CURRENT LEARNING PATH**
-
-```python
-learning_path = {
-    "current": [
-        "Advanced Bash scripting for security automation",
-        "Linux privilege escalation techniques",
-        "Network protocol analysis and exploitation",
-        "Web application security testing"
-    ],
-    "next_up": [
-        "Buffer overflow exploitation",
-        "Reverse engineering fundamentals",
-        "Active Directory attacks",
-        "Python for offensive security"
-    ],
-    "long_term": [
-        "Malware development & analysis",
-        "Mobile application pentesting",
-        "Cloud security (AWS/Azure)",
-        "Professional certifications (OSCP/CEH)"
-    ]
-}
-```
-
----
-
-## 🎯 **// INTERESTS BEYOND CODE**
-
-```yaml
-creative:
-  - Theatre & dramatic arts
-  - Creative writing & storytelling
-  
-physical:
-  - Calisthenics training
-  - Running & endurance building
-  
-technical:
-  - CTF challenges & hacking labs
-  - VM exploitation practice
-  - Security tool development
-  
-lifestyle:
-  - Minimalist tech setup
-  - Privacy-focused tools (ProtonMail, Signal)
-  - Open-source advocacy
-```
-
----
-
-## 📬 **// CONTACT & SOCIALS**
+# 📬 Contact
 
 <div align="center">
 
-```bash
-#!/bin/bash
-echo "Reach me at:"
-```
+[![ProtonMail](https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:RodrigoJesusTripa@proton.me)
 
-[![Email](https://img.shields.io/badge/ProtonMail-DC143C?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:RodrigoJesusTripa@proton.me)
-[![Discord](https://img.shields.io/badge/Discord-8B0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tripakj)
-[![Instagram](https://img.shields.io/badge/Instagram-FF1744?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/demigod__7777)
-[![X](https://img.shields.io/badge/X-A71930?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RodrigoTripaK14)
+[![Discord](https://img.shields.io/badge/Discord-tripakj-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tripakj)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-demigod7777-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/demigod7777)
+
+[![X](https://img.shields.io/badge/X-@RodrigoTripaK14-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RodrigoTripaK14)
 
 </div>
 
 ---
 
-```
-"The quieter you become, the more you are able to hear."
-— Kali Linux motto
+# 💭 Philosophy
+
+```text
+Learn deeply.
+
+Build consistently.
+
+Document everything.
+
+Stay curious.
+
+Share knowledge.
+
+Never stop improving.
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rodrigo-Tripa&color=FF0000&style=for-the-badge&label=PROFILE+VIEWS)
+---
 
-**[⬆ back to top](#)**
+<div align="center">
+
+### Thanks for visiting my profile.
+
+*"Every expert was once a beginner who refused to quit."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rodrigo-Tripa&style=for-the-badge&color=red)
 
 </div>
