@@ -2,48 +2,107 @@
 
 # Rodrigo Tripa
 
-### Cybersecurity Student • Linux • Open Source
+Cybersecurity Student • Linux • Open Source
 
-Building practical cybersecurity skills through projects, homelabs and continuous learning.
+Documenting my journey into cybersecurity through practical projects, homelabs and continuous learning.
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-demigod7777-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/demigod7777)
-[![ProtonMail](https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:RodrigoJesusTripa@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Tripa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:RodrigoJesusTripa@proton.me)
 
 </div>
 
 ---
 
-# 👋 About Me
+# About
 
 I'm a cybersecurity student from Portugal with a strong interest in Linux, networking, system administration and offensive security.
 
-I enjoy understanding how systems work, building practical tools, maintaining a homelab and documenting everything I learn through technical notes.
+I enjoy building practical tools, maintaining a personal homelab and documenting everything I learn through technical notes and open-source projects.
 
-My goal is to build strong technical foundations, contribute to open-source projects and begin my career as a penetration tester.
+My goal is to build a strong technical foundation and begin my career as a penetration tester while continuously expanding my knowledge through hands-on experience.
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
 - Linux Administration
 - Bash Scripting
 - Python
 - Networking
-- Docker
 - Cybersecurity Fundamentals
-- TryHackMe Learning Paths
-- Building Open Source Projects
+- Offensive Security
+- Open Source
+- Homelab Development
 
 ---
 
-# 🛠 Tech Stack
+# Featured Projects
+
+## Linux Security Audit Tool
+
+A Bash-based security auditing tool that automates common Linux security checks and helps identify insecure configurations.
+
+**Highlights**
+
+- User & Group Auditing
+- SUID / SGID Enumeration
+- SSH Configuration Analysis
+- Firewall Inspection
+- Open Port Discovery
+- Security Report Generation
+
+---
+
+## Cyber Notes
+
+A public knowledge base documenting my cybersecurity learning journey.
+
+Current topics include:
+
+- Linux
+- Networking
+- Windows
+- Active Directory
+- Web Security
+- Cryptography
+- Operating Systems
+
+---
+
+## MetaTrace Lite
+
+A lightweight digital forensics tool for analysing image metadata.
+
+Features include:
+
+- EXIF Analysis
+- GPS Coordinates
+- Device Information
+- JSON Reports
+
+---
+
+# Homelab
+
+My homelab allows me to safely experiment with technologies, improve my Linux knowledge and gain practical cybersecurity experience.
+
+Current environment:
+
+- Arch Linux
+- Kali Linux
+- Docker *(learning)*
+- VirtualBox
+- Gitea
+- Wiki.js
+
+---
+
+# Tech Stack
 
 ### Operating Systems
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Languages
@@ -57,104 +116,40 @@ My goal is to build strong technical foundations, contribute to open-source proj
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 📌 Featured Projects
+# Learning
 
-## 🔐 Linux Security Audit Tool
+Currently studying through:
 
-A Bash-based tool that automates common Linux security checks to help identify insecure configurations and improve system visibility.
+- TryHackMe
+- Personal Projects
+- Homelab
+- Technical Documentation
 
-**Highlights**
-
-- User & Group Auditing
-- SUID / SGID Enumeration
-- SSH Configuration Analysis
-- Firewall Inspection
-- Open Port Detection
-- Security Report Generation
-
----
-
-## 📷 MetaTrace Lite
-
-A lightweight forensic utility for extracting and analysing image metadata.
-
-**Highlights**
-
-- EXIF Analysis
-- GPS Coordinates
-- Camera Information
-- JSON Reports
-
----
-
-## 📚 Cyber Notes
-
-A public knowledge base documenting my cybersecurity journey.
-
-Topics include:
+Current topics:
 
 - Linux
 - Networking
 - Windows
 - Active Directory
-- Web Security
-- Cryptography
-- Operating Systems
-
----
-
-## 🏠 Homelab
-
-My homelab is where I safely experiment with new technologies and strengthen practical skills.
-
-Current technologies:
-
 - Docker
-- Gitea
-- Wiki.js
-- Homepage
-- Arch Linux
+- Bash
+- Python
 
 ---
 
-# 📈 GitHub Statistics
+# Connect
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Tripa&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Tripa&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 Currently Learning
-
-- Linux Internals
-- Networking
-- Windows
-- Active Directory
-- Docker
-- Offensive Security
-- TryHackMe
-
----
-
-# 📬 Contact
-
-- 📧 RodrigoJesusTripa@proton.me
-- 💼 LinkedIn
-- 💻 GitHub
-- 🎯 TryHackMe
+- LinkedIn
+- Proton Mail
 
 ---
 
 <div align="center">
 
-> *"Understanding systems is more valuable than simply knowing how to use tools."*
+*"Understanding systems is more valuable than simply knowing how to use tools."*
 
 </div>
