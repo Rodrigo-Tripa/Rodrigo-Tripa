@@ -6,7 +6,7 @@ Cybersecurity Student • Linux • Open Source
 
 Documenting my journey into cybersecurity through practical projects, homelabs and continuous learning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](rodrigo-tripa)
 [![Email](https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:RodrigoJesusTripa@proton.me)
 
 </div>
