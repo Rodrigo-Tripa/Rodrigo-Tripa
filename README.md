@@ -39,21 +39,25 @@ My current path is centered around understanding how systems work, how they fail
 | Infrastructure | Homelab · Virtualization · Docker |
 | Research | Cybersecurity · Networking · Digital Forensics |
 
+<div align="center">
+
+<img src="./assets/sec-1.png" alt="" width="90%">
+
+</div>
+
 ---
-
-# Currently Building
-
-### NERO
-
-An experimental AI project currently under active development.
-
-> **Status:** Active Development · Subject to Change
 
 ### Homelab
 
 A personal infrastructure project currently under development for experimentation, self-hosting and systems administration.
 
 > **Status:** Under Development
+
+<div align="center">
+
+<img src="./assets/sec-2.png" alt="" width="90%">
+
+</div>
 
 ---
 
