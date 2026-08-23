@@ -1,13 +1,19 @@
 <div align="center">
 
-# Rodrigo Tripa
+<img src="./assets/banner.png" alt="Rodrigo Tripa — Cybersecurity" width="100%">
 
-Cybersecurity Student • Linux • Open Source
+<br>
 
-Documenting my journey into cybersecurity through practical projects, homelabs and continuous learning.
+### CYBERSECURITY STUDENT · OFFENSIVE SECURITY · LINUX
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-tripa)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:rodrigojesustripa@proton.me)
+`PENTESTING` · `RED TEAM` · `SECURITY TOOLING` · `SYSTEMS`
+
+<br>
+
+[![Website](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rodrigotripa.dev)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rodrigo-Tripa)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-tripa)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:rodrigojesustripa@proton.me)
 
 </div>
 
