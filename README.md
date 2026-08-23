@@ -39,12 +39,6 @@ My current path is centered around understanding how systems work, how they fail
 | Infrastructure | Homelab · Virtualization · Docker |
 | Research | Cybersecurity · Networking · Digital Forensics |
 
-<div align="center">
-
-<img src="./assets/sec-1.png" alt="" width="90%">
-
-</div>
-
 ---
 
 ### Homelab
@@ -52,12 +46,6 @@ My current path is centered around understanding how systems work, how they fail
 A personal infrastructure project currently under development for experimentation, self-hosting and systems administration.
 
 > **Status:** Under Development
-
-<div align="center">
-
-<img src="./assets/sec-2.png" alt="" width="90%">
-
-</div>
 
 ---
 
@@ -177,7 +165,11 @@ Current areas of study include:
 
 `Linux` · `Networking` · `Windows` · `Active Directory` · `Docker` · `Bash` · `Python` · `Offensive Security`
 
----
+<div align="center">
+
+<img src="./assets/sec-1.png" alt="" width="90%">
+
+</div>
 
 # GitHub
 
