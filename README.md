@@ -1,300 +1,355 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Rodrigo Tripa — Cybersecurity" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=OFFENSIVE+SECURITY;PENETRATION+TESTING;RED+TEAM;LINUX+SECURITY;SECURITY+TOOLING" alt="Typing animation">
-
-<br>
-
-`CYBERSECURITY STUDENT` · `OFFENSIVE SECURITY` · `LINUX`
+<img src="./assets/banner.png" width="100%" />
 
 <br><br>
 
-[![Website](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rodrigotripa.dev)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rodrigo-Tripa)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-tripa)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:rodrigojesustripa@proton.me)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=OFFENSIVE+SECURITY;PENETRATION+TESTING;SECURITY+RESEARCH;LINUX+SECURITY;OPSEC+%26+PRIVACY;SECURITY+TOOLING" />
+
+<br>
+
+`CYBERSECURITY STUDENT` · `OFFENSIVE SECURITY` · `LINUX` · `OPSEC`
+
+<br><br>
+
+<a href="https://rodrigotripa.dev">
+<img src="https://img.shields.io/badge/Website-rodrigotripa.dev-111111?style=flat-square&logo=googlechrome&logoColor=white">
+</a>
+<a href="https://github.com/Rodrigo-Tripa">
+<img src="https://img.shields.io/badge/GitHub-Rodrigo--Tripa-111111?style=flat-square&logo=github&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/rodrigo-tripa">
+<img src="https://img.shields.io/badge/LinkedIn-Rodrigo--Tripa-111111?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:RodrigoJesusTripa@proton.me">
+<img src="https://img.shields.io/badge/Email-Proton-111111?style=flat-square&logo=protonmail&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="72%" valign="top">
+## `> whoami`
 
-# About
+I am a cybersecurity student from Portugal focused on offensive security, penetration testing, Linux security and security research.
 
-I'm a cybersecurity student from Portugal focused on offensive security, penetration testing and Linux-based systems.
+My learning approach is strongly practical: I build security tooling, maintain technical documentation, work through hands-on labs and experiment with different operating systems and security environments.
 
-I build practical security tools, maintain technical documentation and experiment with systems through personal projects and a developing homelab.
+I am particularly interested in understanding how systems fail, how attacks work at a technical level, and how defensive controls can be evaluated from an offensive perspective.
 
-My current path is centered around understanding how systems work, how they fail, and how they can be assessed from an offensive security perspective.
+I also have hands-on experience studying internet anonymity, privacy and online operational security (OPSEC), including Tor-based workflows, Tails and compartmentalized environments.
 
-</td>
-
-<td width="28%" align="center" valign="middle">
-
-<img src="./assets/Nero.gif" width="170px" alt="Nero">
-
-</td>
-</tr>
-</table>
+My goal is to progress from penetration testing into Red Team operations while building a strong foundation in networking, operating systems, programming and security research.
 
 ---
 
-# SYSTEM / STATUS
+## `> current_status`
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  IDENTITY       CYBERSECURITY STUDENT                │
-│  DOMAIN         OFFENSIVE SECURITY                   │
-│  FOCUS          PENTESTING / RED TEAM                │
-│  SYSTEMS        LINUX / NETWORKING                   │
-│  BUILDING       SECURITY TOOLS / HOMELAB / NERO      │
-│  STATUS         LEARNING / BUILDING                  │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-````
-
----
-
-# CURRENT FOCUS
-
-| Area               | Focus                                          |
-| ------------------ | ---------------------------------------------- |
-| Offensive Security | Penetration Testing · Red Team                 |
-| Systems            | Linux · System Administration                  |
-| Development        | Bash · Python · Security Tooling               |
-| Infrastructure     | Homelab · Virtualization · Docker              |
-| Research           | Cybersecurity · Networking · Digital Forensics |
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-# NOW
-
-```text
-[01] Offensive Security
-[02] Linux
-[03] Networking
-[04] Security Tooling
-[05] Technical Documentation
-[06] Personal Infrastructure
+╭──────────────────────────────────────────────────────────────╮
+│ ROLE        :: Cybersecurity Student                         │
+│ LOCATION    :: Portugal                                      │
+│ FOCUS       :: Offensive Security / Pentesting               │
+│ PATH        :: Jr Penetration Tester                         │
+│ NETWORK     :: Networking + Security Fundamentals            │
+│ OS          :: Linux / Windows / Privacy Environments        │
+│ RESEARCH    :: Security Research + OPSEC                     │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-</td>
+## `> current_path`
 
-<td width="50%" align="center" valign="middle">
+Currently working through the **TryHackMe Jr Penetration Tester** path while studying the **Cisco Networking Academy Ethical Hacker** course in parallel.
 
-<img src="./assets/skull.gif" width="130px" alt="Decorative skull">
+Previously completed:
 
-</td>
-</tr>
-</table>
+- TryHackMe Pre-Security
+- TryHackMe Cyber Security 101
 
----
+Current progression:
 
-# CURRENTLY BUILDING
+```text
+Networking
+    └── Linux / Windows
+        └── Enumeration
+            └── Web Security
+                └── Exploitation
+                    └── Privilege Escalation
+                        └── Post-Exploitation
+                            └── Penetration Testing
+                                └── Red Team
+```
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### NERO
-
-An experimental AI project currently under active development.
-
-> **ACTIVE DEVELOPMENT**
-> Subject to change.
-
-</td>
-
-<td width="50%" valign="top">
-
-### HOMELAB
-
-A personal infrastructure project currently under development for experimentation, self-hosting and systems administration.
-
-> **UNDER DEVELOPMENT**
-> Subject to change.
-
-</td>
-</tr>
-</table>
+The objective is not simply to complete learning paths, but to turn the knowledge into practical capability through labs, projects, documentation and independent research.
 
 ---
 
-# SELECTED WORK
+## `> areas_of_interest`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Offensive Security**
 
-## Linux Security Audit Tool
+Penetration testing, reconnaissance, enumeration, exploitation, privilege escalation, post-exploitation, web security and security tooling.
 
-`v1.0.0` · `STABLE`
+**Security Research**
 
-A Bash-based Linux security auditing tool focused on identifying insecure configurations, privilege-related risks and hardening failures.
+Technical investigation of systems, software, operating-system behaviour, attack surfaces and security mechanisms.
 
-**Focus**
+**Privacy & OPSEC**
 
-`LINUX` · `AUDITING` · `HARDENING`
+Internet anonymity, Tor-based privacy workflows, Tails, compartmentalization, privacy-oriented operating systems and operational-security methodology.
 
-**Checks include**
+**Linux Security**
 
-* UID 0 accounts
-* Dangerous file permissions
-* SSH configuration
-* Open ports
-* SUID / SGID binaries
-* Sudoers configuration
-* Firewall status
-* Persistence mechanisms
-* Security updates
-* Report integrity
+Linux administration, permissions, processes, networking, system hardening, auditing and offensive Linux environments.
 
-[View Repository →](https://github.com/Rodrigo-Tripa/linux-security-audit-tool)
+**Networking**
 
-</td>
+TCP/IP, DNS, HTTP/S, SSH, FTP, SMB, enumeration, packet analysis and network reconnaissance.
 
-<td width="50%" valign="top">
+**Security Tooling**
 
-## MetaTrace Lite
-
-`v0.4.1` · `STABLE`
-
-A lightweight Python forensic tool for image metadata extraction, EXIF analysis and forensic indicator detection.
-
-**Focus**
-
-`DIGITAL FORENSICS` · `METADATA` · `IMAGE ANALYSIS`
-
-**Features include**
-
-* EXIF extraction
-* GPS coordinate analysis
-* Device identification
-* Editing software detection
-* DateTime validation
-* GPS accuracy assessment
-* Structured JSON reporting
-
-[View Repository →](https://github.com/Rodrigo-Tripa/metatrace-lite)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## Cyber Notes
-
-`ACTIVE`
-
-A structured and continuously evolving cybersecurity knowledge base built from practical learning, research and technical documentation.
-
-**Topics include**
-
-`CYBERSECURITY` · `NETWORKING` · `LINUX`
-`WINDOWS` · `ACTIVE DIRECTORY` · `WEB`
-`OPERATING SYSTEMS` · `CRYPTOGRAPHY`
-
-The repository also contains dedicated TryHackMe learning notes and walkthrough material.
-
-[View Repository →](https://github.com/Rodrigo-Tripa/Cyber-Notes)
-
-</td>
-
-<td width="50%" valign="top">
-
-## Experimental Work
-
-### PentAssist
-
-Experimental project.
-
-> **SUBJECT TO CHANGE**
-
-[View Repository →](https://github.com/Rodrigo-Tripa/PentAssist)
-
-### cracker1
-
-Experimental project.
-
-> **SUBJECT TO CHANGE**
-
-[View Repository →](https://github.com/Rodrigo-Tripa/cracker1)
-
-</td>
-</tr>
-</table>
+Building small security-focused utilities rather than relying exclusively on existing tools. Python and Bash are the main languages used for automation and tooling.
 
 ---
 
-# TOOLKIT
+## `> toolkit`
 
 ### Operating Systems
 
-![Arch Linux](https://img.shields.io/badge/ARCH_LINUX-000000?style=for-the-badge\&logo=archlinux\&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge\&logo=kalilinux\&logoColor=white)
-![Windows](https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge\&logo=windows\&logoColor=white)
+```text
+Kali Linux
+Arch Linux
+Debian
+Fedora
+Tails
+Windows
+```
 
-### Languages
+### Security & Pentesting
 
-![Bash](https://img.shields.io/badge/BASH-000000?style=for-the-badge\&logo=gnubash\&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge\&logo=python\&logoColor=white)
+```text
+Nmap
+Burp Suite
+Gobuster
+ffuf
+Feroxbuster
+Nikto
+Hydra
+Metasploit
+SQLMap
+Netcat
+John the Ripper
+Hashcat
+enum4linux
+smbclient
+Wireshark
+tcpdump
+SearchSploit
+```
 
-### Infrastructure / Development
+### Privacy / OPSEC
 
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge\&logo=docker\&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VIRTUALBOX-000000?style=for-the-badge\&logo=virtualbox\&logoColor=white)
-![Obsidian](https://img.shields.io/badge/OBSIDIAN-000000?style=for-the-badge\&logo=obsidian\&logoColor=white)
+```text
+Tor Browser
+Tails
+Tor
+Compartmentalization
+Privacy-oriented workflows
+Online OPSEC methodology
+```
+
+### Development
+
+```text
+Python
+Bash
+SQL
+HTML
+CSS
+Git
+Docker
+```
+
+### Virtualization & Lab
+
+```text
+VirtualBox
+Linux VMs
+Windows VMs
+Isolated testing environments
+```
+
+### Documentation
+
+```text
+Obsidian
+Markdown
+Technical documentation
+Security write-ups
+Research notes
+```
 
 ---
 
-# LEARNING
+## `> selected_work`
 
-My learning is driven primarily through hands-on practice, personal projects, technical documentation and TryHackMe.
+### `Cyber-Notes-Jr-Fundamentals`
 
-### Current Areas
+A structured cybersecurity knowledge base covering foundational concepts developed through hands-on study and practical labs.
 
-`LINUX` · `NETWORKING` · `WINDOWS`
-`ACTIVE DIRECTORY` · `DOCKER` · `BASH`
-`PYTHON` · `OFFENSIVE SECURITY`
+Topics include networking, operating systems, Linux, Windows, Active Directory, cryptography, OSINT, penetration testing, web security and other security fundamentals.
 
-### TryHackMe
-
-**Completed**
-
-`PRE-SECURITY`
-
-The completed Pre-Security material is documented in Cyber Notes.
-
-**Current**
-
-`CYBER SECURITY 101`
-
-[View Learning Notes →](https://github.com/Rodrigo-Tripa/Cyber-Notes/tree/master/10-Learning/TryHackMe)
+**Stack:** `Obsidian` `Markdown` `Cybersecurity`
 
 ---
 
-# GITHUB ACTIVITY
+### `Cyber-Notes-Jr-Advanced`
+
+The advanced continuation of the cybersecurity knowledge base, focused on deeper offensive-security concepts, practical techniques and technical documentation.
+
+The repository is intended to function as a long-term technical reference rather than a collection of disposable course notes.
+
+**Stack:** `Obsidian` `Markdown` `Offensive Security`
+
+---
+
+### `linux-security-audit-tool`
+
+A Linux security auditing project focused on inspecting a system and identifying security-relevant configuration and system-level information.
+
+**Stack:** `Python` `Linux` `Security Auditing`
+
+---
+
+### `metatrace-lite`
+
+A lightweight security-oriented project developed as an experiment in technical tooling, testing and structured implementation.
+
+**Stack:** `Python` `pytest`
+
+---
+
+### `cracker1`
+
+A password/security experimentation project developed to explore authentication security and related concepts in controlled environments.
+
+**Stack:** `Python` `Security`
+
+---
+
+### `PentAssist`
+
+An experimental project exploring the idea of assisting penetration-testing workflows through automation and structured tooling.
+
+**Stack:** `Python` `Offensive Security`
+
+---
+
+## `> research`
+
+I maintain independent security research alongside practical penetration-testing work.
+
+Research is documented separately from ordinary learning notes, with an emphasis on methodology, reproducibility, technical observations and security implications.
+
+Research topics include:
+
+```text
+Operating Systems
+Privacy
+Internet Anonymity
+OPSEC
+Security Architecture
+Linux
+Legacy Hardware
+Security Testing
+```
+
+Research and technical documentation are published through my website and GitHub repositories.
+
+---
+
+## `> philosophy`
+
+```text
+Understand the system.
+Understand the attack surface.
+Understand the failure.
+Build the tool.
+Document the result.
+Repeat.
+```
+
+I care more about understanding why something works than memorizing which command to run.
+
+A tool is useful. Understanding what the tool is actually doing is better.
+
+---
+
+## `> certifications_&_learning`
+
+### Completed
+
+- TryHackMe — Pre-Security
+- TryHackMe — Cyber Security 101
+
+### Currently Studying
+
+- TryHackMe — Jr Penetration Tester
+- Cisco Networking Academy — Ethical Hacker
+
+### Planned
+
+- eJPT
+
+The long-term direction is:
+
+```text
+Cybersecurity Fundamentals
+        ↓
+Junior Penetration Testing
+        ↓
+eJPT
+        ↓
+Advanced Pentesting
+        ↓
+Red Team
+```
+
+---
+
+## `> what_i_build`
+
+My public work is divided between four main areas:
+
+**Security tooling** — small utilities and experiments designed to solve practical security problems.
+
+**Knowledge engineering** — structured cybersecurity notes designed to remain useful beyond individual courses.
+
+**Research** — independent technical investigations documented with a reproducible methodology.
+
+**Infrastructure** — Linux environments, virtual machines, security labs and the personal website used to publish and organize the work.
+
+---
+
+## `> find_me`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Tripa&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true" alt="Rodrigo Tripa GitHub Stats">
+<a href="https://rodrigotripa.dev">
+<img src="https://img.shields.io/badge/Website-rodrigotripa.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
-<br><br>
+<a href="https://github.com/Rodrigo-Tripa">
+<img src="https://img.shields.io/badge/GitHub-Rodrigo--Tripa-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rodrigo-Tripa&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Rodrigo Tripa GitHub Activity Graph" width="100%">
+<a href="https://www.linkedin.com/in/rodrigo-tripa">
+<img src="https://img.shields.io/badge/LinkedIn-Rodrigo--Tripa-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://tryhackme.com/p/RodrigoTripa">
+<img src="https://img.shields.io/badge/TryHackMe-RodrigoTripa-111111?style=for-the-badge&logo=tryhackme&logoColor=white">
+</a>
 
 </div>
 
@@ -302,16 +357,12 @@ The completed Pre-Security material is documented in Cyber Notes.
 
 <div align="center">
 
-<img src="./assets/skull.gif" width="70px" alt="">
+```text
+[ SYSTEM ONLINE ]
 
-<br>
+learn → build → test → document → improve
 
-`RODRIGO TRIPA`
-
-CYBERSECURITY · OFFENSIVE SECURITY · LINUX
-
-<br>
-
-*Building systems. Studying security.*
+☠
+```
 
 </div>
