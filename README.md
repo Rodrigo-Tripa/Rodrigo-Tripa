@@ -345,9 +345,9 @@ My learning is driven primarily through hands-on practice, personal projects, te
 
 **Completed**
 
-`PRE-SECURITY`
+[`PRE-SECURITY`](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P84UEMNHQB.pdf)
 
-`CYBER SECURITY 101`
+[`CYBER SECURITY 101`](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DQ0IMORG7N.pdf)
 
 **Current**
 
